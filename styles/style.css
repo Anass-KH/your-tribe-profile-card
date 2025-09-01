@@ -12,7 +12,7 @@ body:has(.profile-card-example) {
   align-items: center;
   height: 100vh;
   font-family: open sans;
-  color: #10214e;
+  color: red;
 }
 
 article.profile-card-example {
@@ -41,7 +41,7 @@ header.profile-card-example-header {
   /* Je kunt selectors nesten! */
   h1 {
     margin: 2rem 0 1rem;
-    color: rgba(0,239,255,1);
+    color: rgb(255, 64, 0);
   }
 
 }
